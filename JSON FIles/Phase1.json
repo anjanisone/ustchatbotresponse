@@ -1,0 +1,547 @@
+{"intents": [
+        {"tag": "General",
+         "patterns": ["hi dear","hi, how are you?","what?","why?","you are","hello","bye","What's time now?","What's today?","hi Dia.","Nope, HelpDesk","Who are you?","Good Morning GM","Good Afternoon GA","Good Evening GE","Good Night GN","What's your age?","Who are you","sounds good","Are you human?","enough","see","because","angry","oh please","welcome","Are you Robot?","Coffee","Do you know me?","What's your name?","Can you help me?","See you later","Bye, see you later.","thanks","nothing","thank you.","No","Cancel","Sorry","It's okay","ha ha","who are u?","Ok","okay","Exit","Car Loans","celebrations","Book a Conference Room","IT Tickets","UST GLOBAL","Address","you there?","you didn't","Others","have a nice day","quiz","I dont need any help",
+		 "Yes",
+		 "Yay",
+		 "Awesome",
+		 "Perfect",
+		 "Beautiful",
+		 "Red",
+		 "k",
+		 "Jokes Stories",
+		 "Tell me",
+		 "Pink",
+		 "Blue",
+		 "How do?",
+		 "Icecream candy chocolate burger lunch breakfast dinner",
+		 "Know me knw me ",
+		 "Hai",
+		 "from",
+		 "I want",
+		 "not this",
+		 "asking you",
+		 "Hi Dia",
+		 "Hola",
+		 "Friend",
+		 "Please answer me",
+		 "Happy sad ugly bad worst",
+		 "headache clinic fever vomit heart Wellness",
+		 "hm hmm hmmm hmmmm"		 
+		 ],
+		 "context_set": ""
+         },
+        {"tag": "HR",
+         "patterns": ["Founder's Day",
+		 "Joining Reports",
+		 "Resume location",
+		 "CV",
+		 "Resume Located",
+		 "UST GLOBAL MUMBAI OFFICE",
+		 "PUNE OFFICE",
+		 "Loss of Pay",
+		 "LOP",
+		 "work from Home request",
+		 "WFH",
+		 "UST Addresses",
+		 "Salary Structure",
+		 "DotNet",
+		 "Salary Certificate",
+		 "Compensation Certificate",
+		 "Compensation Structure",
+		 "swipe reports",
+		 "swipe report",
+		 "GAMA Help Desk ID",
+		 "Compensatory Leave",
+		 "Sick Leave",
+		 "Business Leave",
+		 "Complimentary Leave",
+		 "Complimentory Leave",
+		 "RH",
+		 "Restricted Holiday Policy",
+		 "Referal Portal Link",
+		 "Refer Friend Portal Link",
+		 "H&R Block",
+		 "refer a friend",
+		 "timesheet",
+		 "Fill Timesheets for leave",
+		 "dia DIA",
+		 "Week Weekend daily days shift",
+		 "Designation",
+		 "Independence Day",
+		 "how to apply for leave",
+		 "requestor comments for leave",
+		 "Republic Day",
+		 "Diwali",
+		 "Sunday",
+		 "Employee Central",
+		 "Holiday Calendar",
+		 "Orion",
+		 "UAN",
+		 "My Personal Information",
+		 "Internship Programme",
+		 " Change Pan Card",
+		 "Maternity",
+		 "When is the next holiday?",
+		 "MY Present Address",
+		 "Not asking Leave balance",
+		 "Goals",
+		 "OnBoarding",
+		 "OffBoarding",
+		 "Number of Leaves",
+		 "Mobile Number",
+		 "Name",
+		 "Intenship",
+		 "Interns",
+		 "TimeSheets",
+		 "mediclaims",
+		 "Who is celebrating birthday today?",
+		 "leave Balance",
+		 "Employee Self Service",
+		 "What are the Different Grades?",
+		 "Employee Central",
+		 "People Finder",
+		 "Taleo",
+		 "Absence Reports",
+		 "Absent",
+		 "roles",
+		 "swipe data",
+		 "Reporting Manager",
+		 "My Project Details",
+		 "PluralSight",
+		 "Linkedin Learning",
+		 "Where should I learn?",
+		 "Who is?",
+		 "Salary Account",
+		 "My Salary Account",
+		 "PF Withdrawal Procedure",
+		 "Procedure for application",
+		 "PF Closure Procedure",
+		 "Close PF",
+		 "Apply for Restricted Holiday",
+		 "Talent Pool",
+		 "Lynda",
+		 "Coursera",
+		 "Million Lights",
+		 "Need to know about PF account or UAN account link details",
+		 "Moodle",
+		 "Kandenze",
+		 "Denodo",
+		 "Promotion",
+		 "Offer Letter",
+		 "HR Portal",
+		 "plural sight",
+		 "Certification",
+		 "Onam",
+		 "US",
+		 "Restriced Holiday",
+		 "UK",
+		 "holiday Policy",
+		 "Trivandrum",
+		 "India",
+		 "Cochin",
+		 "Bangalore",
+		 "Chennai",
+		 "Kerala",
+		 "Kochi",
+		 "Mumbai",
+		 "My Name",
+		 "Can you Show my name",
+		 "Approve Leave",
+		 "hyderabad",
+		 "Noida",
+		 "Delhi",
+		 "Aliso",
+		 "Tutorials",
+		 "UID",
+		 "How to apply for Leave?",
+		 "HR",
+		 "Peoplefinder",
+		 "Birthday corner",
+		 "Allocation Details",
+		 "Induction Programme",
+		 "Learning Apps",
+		 "Vista",
+		 "GAMA",
+		 "Pensions",
+		 "GAMMA",
+		 "New Joining",
+		 "Probation",
+		 "National Pension Scheme",
+		 "NPS",
+		 "Birthday",
+		 "Comp Off",
+		 "Project Release",
+		 "Project Allocation Info",
+		 "Shift Timings",
+		 "What are the benefits of the  location?",
+		 "How to refer a candiate?",
+		 "Colors of UST",
+		 "Referral",
+		 "Upload Resume",
+		 "Friend Resume",
+		 "Where Can I upload Resume",
+		 "Contact Details",
+		 "Leave Policy",
+		 "Attendance",
+		 "Human Resources",
+		 "Details of an employee",
+		 "Roles in Organization",
+		 "Color",
+		 "Color Green",
+		 "Color Orange",
+		 "Color Gold",
+		 "Color Indigo",
+		 "Search People",
+		 "Color Quartz",
+		 "Color Purple",
+		 "ESS POrtal",
+		 "Bands in UST",
+		 "Organization Structure",
+		 "Visa Status",
+		 "CIO",
+		 "CEO",
+		 "CAO",
+		 "CFO",
+		 "COO",
+		 "Appointment Letter",
+		 "Letters from HR",
+		 "unable to take printout in walmart ODC",
+		 "Distribution",
+		 "Types of Leaves",
+		 "Dress Code",
+		 "UMA",
+		 "Eligibility",
+		 "Resignation",
+		 "Notice Period Policy",
+		 "Paternity Leaves",
+		 "PF Balances",
+		 "onsite",
+		 "Job Openings",
+		 "Openings",
+		 "Appraisal Month",
+		 "Appraisal Cycle",
+		 "Regular FTE",
+		 "Internal Job Posting",
+		 "HR HelpDesk",
+		 "Kronos",
+		 "ACE",
+		 "Templates",
+		 "Business Requirements",
+		 "Calendar",
+		 "calender",
+		 "what all thing need to approve before relieving company?",
+		 "Documents",
+		 "General",
+		 "NOC",
+		 "Approve Leave",
+		 "Certificate",
+		 "UST",
+		 "Resume",
+		 "Locate an Address",
+		 "PF Number",
+		 "PF",
+		 "Food Coupons",
+		 "Complaints",
+		 "Gama training",
+		 "Distribution Lists",
+		 "bands",
+		 "How many leaves can I take?",
+		 "istqb",
+		 "Calendar",
+		 "Calender",
+		 "North Star",
+		 "Holiday Calendar"
+		 ],
+		 "context_set": ""
+        },
+        {"tag": "Finance",
+         "patterns": ["form16",
+		 "form 16",
+		 "Remunerate",
+		 "401K",
+		 "Enroll for 401K",
+		 "SO Create",
+		 "Pay Portal",
+		 "Submit Expense Report",
+		 "Payslips",
+		 "Sodexo",
+		 "Finance",
+		 "ADP",
+		 "Insurance",
+		 "Health Insurance",
+		 "food reimbursement",
+		 "Share Info",
+		 "UST Shares",
+		 "Investment",
+		 "Travelling Bills",
+		 "CTC",
+		 "Salary Slip",
+		 "Tax Slip",
+		 "Hike this year",
+		 "Payroll",
+		 "ESS",
+		 "Bank Enrollment",
+		 "Company Code",
+		 "LTA",
+		 "Income Tax",
+		 "Cash Advance",
+		 "Compensation",
+		 "Expense Report",
+		 "Benefits",
+		 "SalaryCalculations",
+		 "Gratuity",
+		 "Advance",
+		 "Petrol Allowances",
+		 "Medical claims",
+		 "Salary",
+		 "Optium HR",
+		 "Software Developer",
+		 "Project Manager",
+		 "Sr. Software Developer",
+		 "Manager",
+		 "Director",
+		 "optiumhr",
+		 "Phone Claims",
+		 "Self Development",
+		 "Fuel Claims",
+		 "Book Meeting Rooms",
+		 "SAP",
+		 "Java",
+		 "DotNet",
+		 ".Net",
+		 "Python",
+		 "Machine Learning",
+		 "Team Members",
+		 "Support Team",
+		 "Contact Number",
+		 "Payroll",
+		 "Billable Hours",
+		 "Bonus",
+		 "TimeSheets",
+		 "how many hours permission can be taken",
+		 "Deduction",
+		 "How to APPLY FOR COMP OFF",
+		 "Double Pay",
+		 "Accounts List",
+		 "Accounts in UST",
+		 "PF",
+		 "Provident Fund",
+		 "Pay Slip",
+		 "U32294",
+		 "U77777",
+		 "Others (Salary)",
+		 "U62322",
+		 "U56454",
+		 "U89765",
+		 "Purchase Requests",
+		 "Comp Off",
+		 "How to apply for Comp Off"
+		 ],
+		 "context_set": ""
+        },
+        {"tag": "REFM",
+         "patterns": ["laptop",
+		 "Release my laptop"
+		,"Return a Laptop"
+		,"Travel Team"
+		,"Transfer Laptop"
+		,"Facility Complaints"
+		,"TRF"
+		,"CAB"
+		,"Desktop"
+		,"Bags"
+		,"Headset"
+		,"Headphones"
+		,"Travel Booking"
+		,"Travel"
+		,"Asset"
+		,"Cab to Campus"
+		,"Trivandrum Campus"
+		,"seat allocation"
+		,"Car Rental"
+		,"UST TripMamer"
+		,"Relocation"
+		,"mouse primary button is taking double clicks even i give a single click"
+		,"Bus Pass"
+		,"Vehicle"
+		,"Workplace"
+		,"REFM"
+		,"Global Mobility"
+		,"Transport"
+		,"Shuttle Cabs"
+		,"Trasnportation"
+		,"Gym Timings"
+		,"Gym timing"
+		,"Map"
+		,"Campus"
+		,"Asset Trackers"
+		,"Ride"
+		,"Facility"
+		,"Bhavani"
+		,"ID Cards"
+		,"Carpool"
+		,"Visitor Pass"
+		,"Seat Location"
+		,"VMT"
+		,"Vendor Pass"
+		,"Gate Pass"
+		,"Flights"
+		,"Arrival"
+		,"Depature"
+		,"Trains"
+		,"Travel Requests"
+		,"Mouse Requests"
+		,"having problem with my mouse"
+		 ],
+		 "context_set": ""
+         },
+        {"tag": "IT",
+         "patterns": ["Kubera"
+		,"Support"
+		,"Login in to"
+		,"Skype for Business"
+		,"Lync Services"
+		,"the link seems to be down"
+		,"Forgot my password"
+		,"Cloudmail"
+		,"can i access my UST machine from outside network"
+		,"DL Management"
+		,"Production"
+		,"Zoom"
+		,"Oncall"
+		,"Reset my Password"
+		,"Issues"
+		,"Configuration TroubleShooting"
+		,"Download"
+		,"HelpDesk Numbers"
+		,"Mail Access Links"
+		,"Mail"
+		,"Software Installtion"
+		,"Hardware Configuration"
+		,"Outlook"
+		,"Print"
+		,"Scan"
+		,"Password"
+		,"WebMail"
+		,"Workplace"
+		,"ISMS"
+		,"Sharepoint"
+		,"Proxy"
+		,"Find Links"
+		,"Skype"
+		,"VOIP"
+		,"HelpDesk Team"
+		,"WebEx webinars"
+		,"Technical"
+		,"Artificial Intelligence"
+		,"Project Central"
+		,"Email/Outlook Issues"
+		,"UST Portals"
+		,"VPN"
+		,"Catalogs"
+		,"SSL"
+		,"QMS"
+		,"create a web page"
+		,"Presentations"
+		,"Dynamics 365"
+		,"Microsoft"
+		,"CRM"
+		,"Workspaces"
+		,"how to get access permission for enterprise reports"
+		,"Repository"
+		,"FB@Work"
+		,"Facebook"
+		,"TrailBlazers"
+		,"TFS Admin"
+		,"Access"
+		,"ICE"
+		,"Wi-Fi"
+		,"wifi"
+		,"Guest wi fi"
+		,"SAP Tool"
+		,"IP Address"
+		,"Vidyo Connect"
+		,"USB"
+		,"VLAN Requests"
+		,"Testing"
+		,"Development"
+		,"Databases"
+		,"L1 Remote Support"
+		,"Machine ID"
+		,"IS Help Desk"
+		,"Infinity Labs"
+		,"Innovation"
+		,"Backup"
+		,"access UST network from citrix"
+		,"Lync"
+		,"Word"
+		,"Excel"
+		,"Facebook"
+		,"ICE"
+		,"Bigdata"
+		,"Big Data bigdata"
+		,"Artificial Intelligence"
+		,"Machine Learning"
+		,"AWS Azure Amazon"
+		,"Robots"
+		,"Coding"
+		,"Tickets"],
+		"context_set": ""
+        },
+        {"tag": "ISolve",
+         "patterns": ["my account"
+		,"isolve ticket status"
+		,"Service Now"
+		,"Account Locked Out"
+		,"Unblock account"
+		,"Change the Cable disconnect"
+		,"Get a sim"
+		,"Request for Headset"
+		,"QMS Website"
+		,"Battery Change"
+		,"License"
+		,"Raise Ticket"
+		,"Raise Request"
+		,"Configure Laptop"
+		,"Pending ISolve Requests"
+		,"Database Requests"
+		,"U & UST"
+		,"UST IS Mobility Services"
+		,"Edge Connect App"
+		,"Connectivity Issues"
+		,"iSolve Tools"
+		,"ticket"
+		,"iSolve"
+		,"Storage & Backup"
+		,"BYOD"
+		,"Communication & Collaboration"
+		,"DBA Related Requests"
+		,"Incidents"
+		,"DNS"
+		,"Integration Services Requests"
+		,"Internet Site Hosting"
+		,"Maintenance Mode Requests"
+		,"RPA Requests"
+		,"Robot Processing Automation"
+		,"Privilege"
+		,"Revoke Access"
+		,"Linux Server Admin"
+		,"Host File Add Edit Permissions"
+		,"Internet Website Requests"
+		,"MYPC"
+		,"RITM"
+		,"Approvals"
+		,"Approved"
+		,"Approve"
+		,"DL"
+		,"Pending"
+		,"Direct Line"
+		,"Declined"
+		,"Create Requests"
+		,"Asset Request"
+		,"Raise a Asset Request"
+		,"REQ"],
+		"context_set": ""
+        }
+   ]
+}
